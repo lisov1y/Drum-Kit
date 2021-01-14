@@ -1,6 +1,6 @@
 # Drum-Kit
 
-If you want to play drums - play it here, don't make your neighbors sad!
+If you've ever wanted to play drums - play it here, don't make your neighbors sad!
 
 ### Usage
 
